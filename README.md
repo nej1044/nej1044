@@ -4,7 +4,7 @@
 
 ---
 ### studying 💫
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Cleancode-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 and, Velog : <a href="https://velog.io/@nej1044"><img src="https://velog-readme-stats.vercel.app/api/badge?name=nej1044"/></a>
 
