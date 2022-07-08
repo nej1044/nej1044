@@ -15,6 +15,7 @@ and, Velog : <a href="https://velog.io/@nej1044"><img src="https://velog-readme-
 ---
 ### ✨ Pinned Repository ✨
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nej1044&repo=LinkGem-FE)](https://github.com/nej1044/LinkGem-FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nej1044&repo=GoodNeighbors)](https://github.com/nej1044/GoodNeighbors)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nej1044&repo=codecamp-04)](https://github.com/nej1044/codecamp-04)
 
